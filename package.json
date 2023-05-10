@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "sass-watch": "sass --watch scss/:css/"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.62.1"
+  },
+  "name": "bootstrap-test",
+  "version": "1.0.0",
+  "description": "where i test bootstrap things",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeanzaBruno/Bootstrap-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeanzaBruno/Bootstrap-test/issues"
+  },
+  "homepage": "https://github.com/LeanzaBruno/Bootstrap-test#readme"
+}
